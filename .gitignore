@@ -4,3 +4,7 @@ deployer-key.pub
 *.tfstate
 *.tfstate.*
 *.tfvars
+
+
+# Local .terraform directories
+.terraform/
