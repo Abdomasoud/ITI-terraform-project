@@ -1,2 +1,6 @@
 *.terraform*
 deployer-key
+deployer-key.pub
+*.tfstate
+*.tfstate.*
+*.tfvars
